@@ -1,3 +1,4 @@
+class GhosttySmoothscroll < Formula
   desc "Smooth, Vimium-style keyboard scrolling for Ghostty on macOS"
   homepage "https://github.com/tmphnt/ghostty-smoothscroll"
   url "https://github.com/tmphnt/ghostty-smoothscroll/archive/refs/tags/v0.1.0.tar.gz"
