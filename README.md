@@ -3,6 +3,7 @@
 Homebrew formulae by tmphnt.
 
 ```sh
+brew trust --formula tmphnt/tap/ghostty-smoothscroll   # Homebrew 7+
 brew install tmphnt/tap/ghostty-smoothscroll
 ```
 
